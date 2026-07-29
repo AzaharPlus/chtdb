@@ -18,7 +18,7 @@ A701E658 00020001
 A701F0C4 00020001
 A701F0F8 00020001
 
-[Widescreen 16:9]
+[Widescreen 16:9 (May Cause Crashes)]
 Type = Gameshark
 Activation = EndFrame
 OverrideAspectRatio = 16:9
